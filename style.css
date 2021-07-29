@@ -1,0 +1,66 @@
+
+body {
+    background: black;
+}
+
+#post {
+    width: 400px;
+    height: 530px;
+    margin: auto;
+    background: white;
+    
+}
+#posthead {
+    display: inline-flex;
+    padding: 18px 0px 0px 0px;
+    
+    
+}
+h1 {
+    margin: auto;
+    display: block;
+    font-size: 12px;
+    padding-right: 185px;
+    padding-left: 2px;
+    position: relative;
+    bottom: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+
+}
+#nombre {
+    margin: auto;
+    position: relative;
+    bottom: 0px;
+    right: 237px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+i {
+    margin: auto;
+    font-size: 30px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    position: relative;
+    display: block;
+    padding-left: 15px;
+}
+#photo {
+    width: 398px;
+    height: 300px;
+    object-fit: contain;
+
+}
+
+#plane {
+    padding-right: 200px;
+}
+p {
+    padding: 10px 0px 0px 10px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
